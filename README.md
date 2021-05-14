@@ -1,6 +1,9 @@
 # NETFLIX CLONE IN REACT
 A Netflix UI Clone created using React
 
+## API USED FOR DUMMY DATA
+THEMOVIEDB --> [TMDB](https://www.themoviedb.org/signup)
+
 ## Available Scripts
 
 In the project directory, you can run:
