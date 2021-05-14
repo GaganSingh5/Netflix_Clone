@@ -2,7 +2,7 @@
 A Netflix UI Clone created using React
 
 ## API USED FOR DUMMY DATA
-THEMOVIEDB --> [TMDB](https://www.themoviedb.org/signup)
+THEMOVIEDB --> [TMDB](https://www.themoviedb.org)
 
 ## Available Scripts
 
