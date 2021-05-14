@@ -1,0 +1,22 @@
+.nav {
+    position: fixed;
+    top: 0;
+    padding: 20px;
+    height: 44px;
+    z-index: 1;
+    width: 100vw;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.nav_logo {
+    object-fit: contain;
+    width: 10.4375rem;
+    height: 2.8125rem;
+    fill: #e50914;
+    line-height: normal;
+}
+
+.nav_black {
+    background-color: #111;
+}
