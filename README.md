@@ -1,8 +1,7 @@
 # NETFLIX CLONE IN REACT
 A Netflix UI Clone created using React
 
-#DEMO
-[NetFlix_Clone](https://gagansingh5.github.io/Netflix_Clone/)
+# DEMO --> [NetFlix_Clone](https://gagansingh5.github.io/Netflix_Clone/)
 
 ## API USED FOR DUMMY DATA
 THEMOVIEDB --> [TMDB](https://www.themoviedb.org)
